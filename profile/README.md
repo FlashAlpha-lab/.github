@@ -53,5 +53,5 @@ Get your API key at **[flashalpha.com](https://flashalpha.com)**.
 ## Links
 
 - [flashalpha.com](https://flashalpha.com) — API keys, docs, pricing
-- [lab.flashalpha.com/swagger](https://lab.flashalpha.com/swagger) — interactive playground
+- [flashalpha.com/docs](https://flashalpha.com/docs) — API documentation
 - [PyPI: flashalpha](https://pypi.org/project/flashalpha/) — Python SDK
