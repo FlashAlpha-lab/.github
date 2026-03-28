@@ -44,7 +44,7 @@ print(f"Gamma flip: {gex['gamma_flip']}")
 
 ## Free tier
 
-10 requests/day — no credit card required. Includes GEX, DEX, VEX, CHEX, key levels, greeks, IV, and stock quotes.
+5 requests/day — no credit card required. Includes GEX, DEX, VEX, CHEX, key levels, greeks, IV, and stock quotes.
 
 Get your API key at **[flashalpha.com](https://flashalpha.com)**.
 
