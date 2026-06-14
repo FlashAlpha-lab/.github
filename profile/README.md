@@ -20,7 +20,7 @@ The FlashAlpha API delivers institutional-grade options analytics over a simple 
 | Volatility | ATM IV, skew, term structure, realized vol, IV/RV spread |
 | Sizing | Kelly criterion position sizing |
 | Narrative | AI-generated regime and outlook analysis |
-| Historical | Minute-level stock and option quotes from ClickHouse |
+| Historical | Minute-level stock and option quotes from QuestDB |
 
 ---
 
@@ -44,7 +44,7 @@ print(f"Gamma flip: {gex['gamma_flip']}")
 
 ## Free tier
 
-5 requests/day — no credit card required. Includes GEX, DEX, VEX, CHEX, key levels, greeks, IV, and stock quotes.
+5 requests/day — no credit card required. Includes single-expiry GEX, key levels, greeks, IV, and stock quotes (DEX/VEX/CHEX require Basic).
 
 Get your API key at **[flashalpha.com](https://flashalpha.com)**.
 
