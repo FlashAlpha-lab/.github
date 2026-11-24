@@ -55,3 +55,4 @@ Get your API key at **[flashalpha.com](https://flashalpha.com)**.
 - [flashalpha.com](https://flashalpha.com) — API keys, docs, pricing
 - [flashalpha.com/docs](https://flashalpha.com/docs) — API documentation
 - [PyPI: flashalpha](https://pypi.org/project/flashalpha/) — Python SDK
+- [TradingView GEX by FlashAlpha](https://github.com/FlashAlpha-lab/tradingview-gex-flashalpha) - open-source GEX chart: call wall, put wall, gamma flip and max pain on a live candlestick chart
